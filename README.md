@@ -1,1 +1,1 @@
-Thiks code was a final exam for C++ and asks the user for up to five exams with ID for the student, the exam grade, and the exam name. It uses a loop for a maximum of 5 exams. It then displays all this information and creates a table with the average score.
+This code was a final exam for C++ and asks the user for up to five exams with ID for the student, the exam grade, and the exam name. It uses a loop for a maximum of 5 exams. It then displays all this information and creates a table with the average score.
